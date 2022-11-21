@@ -8,20 +8,20 @@ ext {
     bintrayRepo = 'maven'
     bintrayName = 'folioreader'
 
-    publishedGroupId = 'com.jideguru'
+    publishedGroupId = 'com.ahidalgoarce'
     libraryName = 'FolioReader'
     artifact = 'folioreader'
 
     libraryDescription = 'An epub reader for Android'
 
-    siteUrl = 'https://github.com/FolioReader/FolioReader-Android'
-    gitUrl = 'https://github.com/FolioReader/FolioReader-Android.git'
+    siteUrl = 'https://github.com/ahidalgoarce/FolioReader-Android'
+    gitUrl = 'https://github.com/ahidalgoarce/FolioReader-Android.git'
 
     libraryVersion = versions.folioreaderSdk
 
-    developerId = 'mobisystech'
-    developerName = 'Folio Reader'
-    developerEmail = 'mahavir@codetoart.com'
+    developerId = 'ahidalgoarce'
+    developerName = 'Folio Reader Fork'
+    developerEmail = 'ahidalgoa1310@gmail.com'
 
     licenseName = 'FreeBSD License'
     licenseUrl = 'https://en.wikipedia.org/wiki/FreeBSD_Documentation_License#License'
